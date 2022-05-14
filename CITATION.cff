@@ -2,52 +2,53 @@ cff-version: '1.2.0'
 message: 'Please cite the following works when using this software.'
 abstract: 'Unsupervised 3D time-shift extraction from 4D seismic data'
 authors:
-  - family-names: 'Dramsch'
-    given-names: 'Jesper Sören'
-    orcid: '0000-0001-8273-905X'
+- family-names: 'Dramsch'
+  given-names: 'Jesper Sören'
+  orcid: '0000-0001-8273-905X'
 date-released: 2020-08-14
 title: 'JesperDramsch/4D-seismic-warping-voxelmorph'
 url: 'https://github.com/JesperDramsch/4D-seismic-warping-voxelmorph'
 version: 'pub'
+type: 'software'
 preferred-citation:
-  - authors:
-      - family-names: "Dramsch"
-        given-names: "Jesper Sören"
-        orcid: "0000-0001-8273-905X"
-      - family-names: 'Christensen'
-        given-names: "Anders Nymark"
-        orcid: "0000-0002-3668-3128"
-      - family-names: "MacBeth"
-        given-names: "Colin"
-        orcid: "0000-0001-8593-3456"
-      - family-names: "Lüthje"
-        given-names: "Mikael"
-        orcid: "0000-0003-2715-1653"
-    doi: '10.1109/TGRS.2021.3081516'
-    identifiers:
-      - type: 'doi'
-        value: '10.1109/TGRS.2021.3081516'
-      - type: 'other'
-        value: 'urn:issn:1558-0644'
-    title: 'Deep Unsupervised 4-D Seismic 3-D Time-Shift Estimation With Convolutional Neural Networks'
-    date-published: 2022-01-01
-    year: 2022
-    issn: '1558-0644'
-    issue: .nan
-    journal: 'IEEE Transactions on Geoscience and Remote Sensing'
-    start: '1'
-    end: '16'
-    type: 'article'
-    volume: 60
+  authors:
+  - family-names: "Dramsch"
+    given-names: "Jesper Sören"
+    orcid: "0000-0001-8273-905X"
+  - family-names: 'Christensen'
+    given-names: "Anders Nymark"
+    orcid: "0000-0002-3668-3128"
+  - family-names: "MacBeth"
+    given-names: "Colin"
+    orcid: "0000-0001-8593-3456"
+  - family-names: "Lüthje"
+    given-names: "Mikael"
+    orcid: "0000-0003-2715-1653"
+  doi: '10.1109/TGRS.2021.3081516'
+  identifiers:
+  - type: 'doi'
+    value: '10.1109/TGRS.2021.3081516'
+  - type: 'other'
+    value: 'urn:issn:1558-0644'
+  title: 'Deep Unsupervised 4-D Seismic 3-D Time-Shift Estimation With Convolutional Neural Networks'
+  date-published: 2022-01-01
+  year: 2022
+  issn: '1558-0644'
+  issue: .nan
+  journal: 'IEEE Transactions on Geoscience and Remote Sensing'
+  start: '1'
+  end: '16'
+  type: 'article'
+  volume: 60
 references:
   - authors:
-      - family-names: 'Adrian V. Dalca'
-      - family-names: 'Balakrishnan'
-        given-names: 'Guha'
-      - family-names: 'Guttag'
-        given-names: 'John'
-      - family-names: 'Sabuncu'
-        given-names: 'Mert'
+    - family-names: 'Adrian V. Dalca'
+    - family-names: 'Balakrishnan'
+      given-names: 'Guha'
+    - family-names: 'Guttag'
+      given-names: 'John'
+    - family-names: 'Sabuncu'
+      given-names: 'Mert'
     title: 'Unsupervised Learning of Probabilistic Diffeomorphic Registration for Images and Surfaces'
     date-published: 2019-01-01
     year: 2019
